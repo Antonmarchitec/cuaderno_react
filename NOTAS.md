@@ -1,4 +1,4 @@
-# CONCEPTOS
+# CONCEPTOSs
 - Que es el DOM?
 - Que es el virtual DOM?
 - Que es JSX
