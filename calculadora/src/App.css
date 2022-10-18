@@ -1,0 +1,36 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: oswald;
+}
+
+.App{
+  width: 100%;
+  max-width: 1200px;
+  height: 100vh;
+  padding:20px;
+  background: rgb(17, 17, 41);
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.tille_calculator{
+  font-size: 60px;
+  color: white;
+}
+.container_logo{
+  margin-top: 20px;
+  width: 300px;
+  height: 200px;
+}
+
+.container_calculator{
+  margin-top: 20px;
+  width:500px;
+  padding: 10px 0px;
+  border: 2px solid white;
+  border-radius: 5px;
+}
